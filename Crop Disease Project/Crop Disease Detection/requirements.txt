@@ -1,7 +1,0 @@
-tensorflow
-fastapi
-uvicorn
-pillow
-numpy
-mlflow
-kaggle
